@@ -5,7 +5,7 @@ It's just a modern real estate website design containing lots of animations in i
 
 ## :camera: Screenshots :camera: ##
 <div align="left">
-<img width="50%" src="https://user-images.githubusercontent.com/78959562/195153286-04f4315e-b957-488b-9eb9-d98c1658a771.png"/><img width="50%" src="https://user-images.githubusercontent.com/78959562/195153955-27bd6f65-9f28-4a31-ba36-e4d98d0231d1.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/78959562/195153286-04f4315e-b957-488b-9eb9-d98c1658a771.png"/><img width="50%" src="https://user-images.githubusercontent.com/78959562/195175582-21b4cbb1-6aec-456a-96f2-c9cbfda07683.png"/>
 </div>
 
 <div>
